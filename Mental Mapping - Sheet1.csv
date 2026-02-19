@@ -1,0 +1,11 @@
+Mental Mapping,
+Real Service,What We Simulate
+Kinesis,File-based event stream
+Lambda,Stateless Python function
+S3,Local filesystem
+EMR / Databricks,Batch Python processing
+Athena,SQL over raw files (SQLite)
+Redshift / Snowflake,Analytics SQLite DB
+PostgreSQL,Ops SQLite DB
+Airflow,Python orchestrator
+CloudWatch / Datadog / Humio,Structured logs + metrics

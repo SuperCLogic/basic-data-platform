@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Databases
+*.db
+
+# Data artifacts
+data/raw/
+
+# OS junk
+.DS_Store
