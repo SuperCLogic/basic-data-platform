@@ -11,3 +11,6 @@ data/raw/
 
 # OS junk
 .DS_Store
+
+#idea
+.idea
